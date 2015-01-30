@@ -1,0 +1,15 @@
+var bacon = {
+    "catalan" : {
+        "a" : "cansalada",
+        "b" : "tocino"
+    },
+    "english" : "bacon",
+    "galacian" : "touciño",
+    "italian" : "pancetta",
+    "korean" : {
+        "a" : "삼겹살",
+        "b" : "오겹살"
+    },
+    "portuguese" : "toucinho",
+    "spanish" : "tocino"
+}
